@@ -1,8 +1,13 @@
 # Cloudberry Kit
 
-Composable, configurable and extendable react components.
+Cloudberry Kit is a React components library for building reusable UI interfaces
+
+Builders
 
 * FormBuilder
+
 * TableBuilder
 
+Components
 
+soon...
